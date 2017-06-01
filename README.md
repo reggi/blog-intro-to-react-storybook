@@ -180,3 +180,9 @@ export default class Box extends Component {
   }
 }
 ```
+
+### Results
+
+Here's the final results:
+
+![Results](./pictures/results.png)
