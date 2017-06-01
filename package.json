@@ -1,0 +1,24 @@
+{
+  "name": "@reggi/blog-intro-to-react-storybook",
+  "version": "1.0.0",
+  "description": "How do you start a React App? Let's use an analogy! How would you build a house? No you don't need any structural engineering experience to answer the question. Every house needs a good foundation! You can't start with the roof. You have to lay the ground work. The same is true for a React App. In our case any React App is built with components. Let's assume you already possess the designs for your app. We can start by going though all the design(s) and grouping components together.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@storybook/react": "^3.0.0",
+    "prop-types": "^15.5.10",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "styled-jsx": "^1.0.3"
+  },
+  "babel": {
+    "plugins": [
+      "styled-jsx/babel"
+    ]
+  }
+}
